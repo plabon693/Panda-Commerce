@@ -1,0 +1,28 @@
+.product-card{
+    border: 0;
+    background-color: white;
+    padding-bottom: 10px;
+}
+.carousel-color{
+    background-color:#FCEAE8 ;
+    border-radius: 7px;
+}
+.catagories-image img{
+    height: 100px;
+}
+.price{
+    color: #FF3D8A
+}
+.contact{
+    height: 300px;
+    background-color: #FCEAE8; 
+    border-radius: 10px;
+}
+.btn-color{
+    background-color: #FF3D8A;
+    border-radius: 8px;
+    color: white;
+}
+.btn-color:hover{
+    color: white;
+}
